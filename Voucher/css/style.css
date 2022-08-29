@@ -1,0 +1,35 @@
+body {
+	margin: 0px;
+	border: 0px;
+	background-color: yellowgreen;
+}
+
+
+/* NAVS aand LISTS */
+ul {
+	list-style-type:  none;
+	background-color:  #000;
+	overflow: hidden;
+	margin:  0;
+	padding:  0;
+}
+
+li a {
+	display: inline;
+	float: left;
+	color: whitesmoke;
+}
+
+a {
+	display:  block;
+	background-color:  darkgray;
+	color: white;
+	font-family:  Calibri;
+	text-decoration:  none;
+	padding:  8px;
+}
+
+li a:hover {
+	background-color:  yellowgreen;
+	color: #000;
+}

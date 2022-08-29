@@ -1,0 +1,25 @@
+Task for Voucher Entry
+
+Database
+1. Connect to database = mysqli
+
+Main Page (Voucher Entry and Transactions)
+2. ADD Entry feature = DONE
+3. Retain voucher number, until a New voucher Number is needed. = 
+- ReadOnly Attributte Voucher Number field for continuous voucher entries
+- New Voucher Button - DONE
+
+Table for Current Voucher
+4. DISPLAY Table for Current Voucher - DONE
+5. View Debit and Credit Total - DONE
+6. EDIT and DELETE per row on table display - DONE
+7. FILTER by Voucher on table display - 
+8. DISABLE SAVE Voucher unless debit and credit is balance = created a column for IsBalance
+
+Report Creation
+
+
+
+Additional Task
+- create audit logs
+- create prompts for successful add, delete and update
